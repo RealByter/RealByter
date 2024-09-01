@@ -1,4 +1,9 @@
 ## Hi there 👋
+My name is Avishay.
+- 🔭 I’m currently working on a hypervisor type 2 made with kvm
+- 🌱 I’m currently learning rust
+- 💬 Ask me about anything you'd like
+- ⚡ Fun fact: I'm also a black belt in Karate
 
 <!--
 **RealByter/RealByter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
