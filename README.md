@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on a hypervisor type 2 made with kvm<br>🌱 I’m currently learning rust<br>💬 Ask me about anything you'd like<br>⚡ Fun fact: I'm also a black belt in Karate
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Avishay-Kuperman-Koren) 
 
